@@ -2,7 +2,7 @@
 layout: lesson
 carpentry: "swc"
 venue: "G.01, EPCC, The University of Edinburgh"
-address: "47 Potterrow, Edinburgh EH8 9BT"
+address: "G.01, EPCC, The University of Edinburgh, Bayes Centre, 47 Potterrow, Edinburgh EH8 9BT"
 country: "UK"
 language: "English"
 latlng: "55.945290,-3.187293"
