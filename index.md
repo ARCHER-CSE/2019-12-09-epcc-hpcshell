@@ -1,7 +1,7 @@
 ---
 layout: lesson
 carpentry: "swc"
-venue: "EPCC, The University of Edinburgh"
+venue: "G.01, EPCC, The University of Edinburgh"
 address: "47 Potterrow, Edinburgh EH8 9BT"
 country: "UK"
 language: "English"
