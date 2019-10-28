@@ -18,6 +18,15 @@ eventbrite:
 root: .
 ---
 
+<h2>Registration</h2>
+<p>Please use the <a href="https://www.archer.ac.uk/training/registration/index.php">ARCHER course registration form</a> to sign up for the workshop.</p>
+
+<hr/>
+
+<h2 id="general">General Information</h2>
+
+
+
 This workshop is an introduction to using high-performance computing systems effectively. We
 obviously can't cover every case or give an exhaustive course on parallel programming in just two
 days of teaching time. Instead, this workshop is intended to give students a good introduction and
@@ -30,7 +39,17 @@ By the end of this workshop, students will know how to:
    - Be able to use software modules to access different HPC software
    - Be able to work effectively on a remote shared resource
 
-The material for the second part of this workshop is available at: [https://archer-cse.github.io/2018-12-09-epcc-hpcintro/](https://archer-cse.github.io/2018-12-09-epcc-hpcintro/)
+The material for the second part of this workshop is available at: [https://archer-cse.github.io/2018-12-09-epcc-hpcintro/](https://archer-cse.github.io/2018-12-09-epcc-hpcintro/).
+
+<p>This workshop is organised by <a href="http://www.epcc.ed.ac.uk/">EPCC</a> in collaboration with <a href="https://www.archer.ac.uk/">ARCHER</a>. ARCHER, the UK's national supercomputing service, offers training in software development and high-performance computing to scientists and researchers across the UK.</p>
+
+<p align="center">
+  <em>
+    For more information on what we teach and why,
+    please see our paper
+    "<a href="http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001745">Best Practices for Scientific Computing</a>".
+  </em>
+</p>
 
 
 <h2 id="general">General Information</h2>
@@ -166,8 +185,8 @@ an SSH client installed.
 <h2 id="surveys">Surveys</h2>
 <p>Please be sure to complete these surveys before and after the workshop.</p>
 {% if site.carpentry == "swc" %} 
-<p><a href="{{ site.swc_pre_survey }}{{ site.github.project_title }}">Pre-workshop Survey</a></p>
-<p><a href="{{ site.swc_post_survey }}{{ site.github.project_title }}">Post-workshop Survey</a></p>
+<p><a href="{{ site.swc_pre_survey }}">Pre-workshop Survey</a></p>
+<p><a href="{{ site.swc_post_survey }}">Post-workshop Survey</a></p>
 {% elsif site.carpentry == "dc" %}
 <p><a href="{{ site.dc_pre_survey }}{{ site.github.project_title }}">Pre-workshop Survey</a></p>
 <p><a href="{{ site.dc_post_survey }}{{ site.github.project_title }}">Post-workshop Survey</a></p>
