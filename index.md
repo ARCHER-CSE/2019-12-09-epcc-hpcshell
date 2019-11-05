@@ -19,7 +19,7 @@ root: .
 ---
 
 <h2>Registration</h2>
-<p>Please use the <a href="https://www.archer.ac.uk/training/registration/index.php">ARCHER course registration form</a> to sign up for the workshop.</p>
+<p>Please use the <a href="https://events.prace-ri.eu/event/924/">PRACE ARCHER course registration form</a> to sign up for the workshop.</p>
 
 <hr/>
 
