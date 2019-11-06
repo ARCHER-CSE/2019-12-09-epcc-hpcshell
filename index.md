@@ -25,8 +25,6 @@ root: .
 
 <h2 id="general">General Information</h2>
 
-
-
 This workshop is an introduction to using high-performance computing systems effectively. We
 obviously can't cover every case or give an exhaustive course on parallel programming in just two
 days of teaching time. Instead, this workshop is intended to give students a good introduction and
