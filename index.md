@@ -37,7 +37,7 @@ By the end of this workshop, students will know how to:
    - Be able to use software modules to access different HPC software
    - Be able to work effectively on a remote shared resource
 
-The material for the second part of this workshop is available at: [https://archer-cse.github.io/2018-12-09-epcc-hpcintro/](https://archer-cse.github.io/2018-12-09-epcc-hpcintro/).
+The material for the second part of this workshop is available at: [https://archer-cse.github.io/2019-12-09-epcc-hpcintro/](https://archer-cse.github.io/2019-12-09-epcc-hpcintro/).
 
 <p>This workshop is organised by <a href="http://www.epcc.ed.ac.uk/">EPCC</a> in collaboration with <a href="https://www.archer.ac.uk/">ARCHER</a>. ARCHER, the UK's national supercomputing service, offers training in software development and high-performance computing to scientists and researchers across the UK.</p>
 
