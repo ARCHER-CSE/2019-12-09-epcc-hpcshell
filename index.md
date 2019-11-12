@@ -21,6 +21,8 @@ root: .
 <h2>Registration</h2>
 <p>Please use the <a href="https://events.prace-ri.eu/event/924/">PRACE ARCHER course registration form</a> to sign up for the workshop.</p>
 
+<p>This course is part-funded by the PRACE project and is free to all.</a>
+
 <hr/>
 
 <h2 id="general">General Information</h2>
@@ -39,7 +41,7 @@ By the end of this workshop, students will know how to:
 
 The material for the second part of this workshop is available at: [https://archer-cse.github.io/2019-12-09-epcc-hpcintro/](https://archer-cse.github.io/2019-12-09-epcc-hpcintro/).
 
-<p>This workshop is organised by <a href="http://www.epcc.ed.ac.uk/">EPCC</a> in collaboration with <a href="https://www.archer.ac.uk/">ARCHER</a>. ARCHER, the UK's national supercomputing service, offers training in software development and high-performance computing to scientists and researchers across the UK.</p>
+<p>This workshop is organised by <a href="http://www.epcc.ed.ac.uk/">EPCC</a> in collaboration with <a href="https://www.archer.ac.uk/">ARCHER</a>. ARCHER, the UK's national supercomputing service and <a href="http://www.prace-ri.eu">PRACE</a>. ARCHER and PRACE offer training in software development and high-performance computing to scientists and researchers across the UK.</p>
 
 <p align="center">
   <em>
