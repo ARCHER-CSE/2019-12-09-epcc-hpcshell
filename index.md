@@ -182,7 +182,7 @@ To get started, follow the directions on the "[Setup](setup/)" page to ensure yo
 <hr/>
  
 <h2 id="surveys">Surveys</h2>
-<p>Please be sure to complete these survey before the workshop.</p>
+<p>Please be sure to complete this survey before the workshop.</p>
 {% if site.carpentry == "swc" %} 
 <p><a href="{{ site.swc_pre_survey }}">Pre-workshop Survey</a></p>
 <!-- <p><a href="{{ site.swc_post_survey }}">Post-workshop Survey</a></p> -->
