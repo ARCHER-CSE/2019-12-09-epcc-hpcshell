@@ -115,7 +115,7 @@ The material for the second part of this workshop is available at: [https://arch
   {% elsif page.carpentry == "lc" %}
   Library Carpentry's
   {% endif %}
-  <a href="{{site.swc_site}}/conduct.html">Code of Conduct</a>.
+  <a href="{{site.swc_site}}/conduct.html">Code of Conduct</a> and the <a href="http://archer.ac.uk/training/code-of-conduct/index.php">ARCHER Training Code of Conduct</a>.
 </p>
 
 {% comment %}
