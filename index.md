@@ -175,8 +175,7 @@ The material for the second part of this workshop is available at: [https://arch
 
 ### Getting Started
 <h2 id="setup">Getting Started</h2>
-To get started, follow the directions on the "[Setup](setup/)" page to ensure you have
-an SSH client installed.
+To get started, follow the directions on the "[Setup](setup/)" page to ensure you have the bash shell and an SSH client installed.
 
 <hr/>
  
