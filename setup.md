@@ -16,7 +16,7 @@ We maintain a list of common issues that occur during installation as a referenc
 
 ### Windows
 
-  - [Video Tutorial](https://www.youtube.com/watch?v=339AEqk9c-8)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/339AEqk9c-8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 1. Download the [Git for Windows installer](https://git-for-windows.github.io/)
 2. Run the installer and follow the steps below:
