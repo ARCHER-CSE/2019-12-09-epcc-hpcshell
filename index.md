@@ -12,7 +12,7 @@ startdate: 2019-12-09
 enddate: 2019-12-10
 instructor: ["Andy Turner"]
 helper: ["Holly Judge","Oliver Brown","Julien Sindt"]
-email: ["a.turner@epcc.ed.ac.uk"]
+email: ["support@archer.ac.uk"]
 collaborative_notes: https://pad.carpentries.org/2019-12-09-epcc-hpccarpentry
 eventbrite: 
 root: .
