@@ -4,9 +4,15 @@ title: Setup
 permalink: /setup/
 ---
 
-There are several pieces of software you will wish to install before the workshop.
-Though installation help will be provided at the workshop, 
-we recommend that these tools are installed (or at least downloaded) beforehand.
+There are a few steps to setup for the workshop. We strongly recommedn that you complete these before the worksop starts. If you run into problems, please contact the workshop leader at the e-mail address on the home page. We will also provide installation and setup help at the workshop if  required, but you will get more out of the training if you can complete them ahead of time.
+
+There are three steps to the setup:
+
+   1. Ensure your laptop has the bash shell installed
+   2. Ensure that your bash shell is equipped with an SSH client
+   3. Setup an account on the HPC system, Cirrus, that we will be using for the workshop
+   
+These steps are described in more detail below.
 
 ## bash Shell
 
@@ -62,3 +68,14 @@ macOS comes with SSH pre-installed, so you should not need to install anything.
 **Linux**
 
 Linux users do not need to install anything, you should be set!
+
+## Account on Cirrus
+
+Please sign up for your account on our HPC machine, Cirrus, which will be available to
+you for the duration of the course and for a few weeks afterwards, to allow you to
+complete the practical exercises and put some of what you have learned into practice.
+
+To sign up, you must first register for an account on SAFE (our service administration
+web application): [https://tier2-safe.readthedocs.io/en/latest/safe-guide-users.html](https://tier2-safe.readthedocs.io/en/latest/safe-guide-users.html)
+
+and then request your Cirrus machine account under project `tc007`: [https://tier2-safe.readthedocs.io/en/latest/safe-guide-users.html#tier-2-facilities-accounts-passwords](https://tier2-safe.readthedocs.io/en/latest/safe-guide-users.html#tier-2-facilities-accounts-passwords)
