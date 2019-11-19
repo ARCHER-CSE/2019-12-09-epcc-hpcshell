@@ -21,25 +21,27 @@ root: .
 <h2>Registration</h2>
 <p>Please use the <a href="https://events.prace-ri.eu/event/924/">PRACE ARCHER course registration form</a> to sign up for the workshop.</p>
 
-<p>This course is part-funded by the PRACE project and is free to all.</a>
+<p>This course is part-funded by the PRACE project and is free to all.</p>
 
 <hr/>
 
 <h2 id="general">General Information</h2>
 
-This workshop is an introduction to using high-performance computing systems effectively. We
+<p>This workshop is an introduction to using high-performance computing systems effectively. We
 obviously can't cover every case or give an exhaustive course on parallel programming in just two
 days of teaching time. Instead, this workshop is intended to give students a good introduction and
-overview of the tools available and how to use them effectively.
+overview of the tools available and how to use them effectively.</p>
 
-By the end of this workshop, students will know how to:
+<p>By the end of this workshop, students will know how to:</p>
 
-   - Know how to connect to remote HPC systems and transfer data
-   - Know how to use a scheduler to work on a shared system
-   - Be able to use software modules to access different HPC software
-   - Be able to work effectively on a remote shared resource
+<ul>
+  <li>Know how to connect to remote HPC systems and transfer data</li>
+  <li>Know how to use a scheduler to work on a shared system</li>
+  <li>Be able to use software modules to access different HPC software</li>
+  <li>Be able to work effectively on a remote shared resource</li>
+</ul>
 
-The material for the second part of this workshop is available at: [https://archer-cse.github.io/2019-12-09-epcc-hpcintro/](https://archer-cse.github.io/2019-12-09-epcc-hpcintro/).
+<p>The material for the second part of this workshop is available at: <a href="https://archer-cse.github.io/2019-12-09-epcc-hpcintro/">https://archer-cse.github.io/2019-12-09-epcc-hpcintro/</a>.</p>
 
 <p>This workshop is organised by <a href="http://www.epcc.ed.ac.uk/">EPCC</a> in collaboration with <a href="https://www.archer.ac.uk/">ARCHER</a>. ARCHER, the UK's national supercomputing service and <a href="http://www.prace-ri.eu">PRACE</a>. ARCHER and PRACE offer training in software development and high-performance computing to scientists and researchers across the UK.</p>
 
@@ -177,7 +179,8 @@ The material for the second part of this workshop is available at: [https://arch
 
 ### Getting Started
 <h2 id="setup">Getting Started</h2>
-To get started, follow the directions on the "[Setup](setup/)" page to ensure you have the bash shell and an SSH client installed.
+
+<p>To get started, follow the directions on the <a href="setup/">Setup</a> page to ensure you have the bash shell and an SSH client installed.</p>
 
 <hr/>
  
