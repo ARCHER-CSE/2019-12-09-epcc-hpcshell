@@ -37,9 +37,16 @@ Text is one of the simplest computer file formats, defined as a simple sequence 
 
 What if we want to make a file? There are a few ways of doing this, the easiest of which is simply
 using a text editor. For this lesson, we are going to us `nano`, since it's more intuitive than many
-other terminal text editors.
+other terminal text editors. To access `nano` on Cirrus, you need to load the `nano` module first
+(we will learn more about software modules in the second part of this workshop):
 
-To create or edit a file, type `nano <filename>`, on the terminal, where `<filename>` is the name of the
+```
+module load nano
+```
+{: .language-bash}
+
+(if you log out and log back in again, you will need to load this module again to be able to access
+`nano`). To create or edit a file, type `nano <filename>`, on the terminal, where `<filename>` is the name of the
 file.  If the file does not already exist, it will be created.
 Let's make a new file now, type whatever you want in it, and save it.
 
@@ -291,7 +298,7 @@ take a long time to open, or maybe we want to only look at a certain part of the
 example, we are going to look at a large and complex file type used in bioinformatics- a .gtf file.
 The GTF2 format is commonly used to describe the location of genetic features in a genome.
 
-Let's grab and unpack a set of demo files for use later. To do this, we'll use `wget` (`wget link`
+Let's grab and unpack a set of demo files for use later. To do this, we'll use `wget` (`wget <link>`
 downloads a file from a link).
 
 ```
